@@ -1,0 +1,4 @@
+honomichls@gmail.com:Adalyn107 Plan = [Disney Plus Premier Access - Cruella - US - Roku, DISNEY_2GJTZUO8I01C, Disney Plus Monthly Pre-Sales - US - Web, DISNEY_PLUS, Disney Plus - US - Verizon - Inclusion Promo, DISNEY_PLUS, Disney Plus Non-Recurring - US - Verizon, DISNEY_PLUS] subType = PAID Renewal Date = 19112019 170000 isActive = True
+annefredd@gmail.com:1427redd Plan = [Disney Plus Monthly, DISNEY_PLUS] Renewal Date = 03062022 223558 isActive = True
+Sean.taylor@geometry.com:Tommy007 Plan = [Disney Plus Yearly, DISNEY_PLUS] Renewal Date = 27092022 053550 isActive = True
+andreas@darienzo.com:Swimming50 Plan = [Disney Plus Monthly - DK - Web - 2021, DISNEY_PLUS, Disney Plus Monthly - DK - Web, DISNEY_PLUS] subType = INITIAL Renewal Date = 18052022 170555 isActive = True
